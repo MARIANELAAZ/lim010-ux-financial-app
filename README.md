@@ -26,8 +26,6 @@ ___
 
     - [4.Prototipado y Testing](#4.Prototipado-y-Testing)
 
-
-- [Conclusiones](#conclusiones)
 - [Enlaces](#enlaces)
 
 
