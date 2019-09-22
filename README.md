@@ -47,7 +47,6 @@ El Banco de Crédito del Perú (BCP), es uno de los bancos más importante del p
 ![Sin titulo](Imagenes/analisis2.PNG)
 ### Testing del MVP
 ![Sin titulo](Imagenes/maze.PNG)
-![Sin titulo](Imagenes/test1.PNG)
 ![Sin titulo](Imagenes/guerrilla.PNG)
 
 ## Implementación
