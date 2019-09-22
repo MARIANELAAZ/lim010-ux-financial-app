@@ -43,11 +43,11 @@ El Banco de Crédito del Perú (BCP), es uno de los bancos más importante del p
 ## Problemas encontrados
 ---
 ### Análisis de la data
-![Sin titulo](Imagenes/analisis1.png)
-![Sin titulo](Imagenes/analisis2.png)
+![Sin titulo](Imagenes/analisis1.PNG)
+![Sin titulo](Imagenes/analisis2.PNG)
 ### Testing del MVP
-![Sin titulo](Imagenes/maze.png)
-![Sin titulo](Imagenes/guerrilla.png)
+![Sin titulo](Imagenes/maze.PNG)
+![Sin titulo](Imagenes/guerrilla.PNG)
 
 ## Implementación
 ---
@@ -90,11 +90,11 @@ Se obtuvo como conclusiones más resaltantes:
 * Que de un 70% de clientes sean digitales.     
     ***[Ver más resultados aquí](https://drive.google.com/open?id=1l-3TAd4MmJTyUNbYvlLO0JjjJqW_UINv3iqk3_gZlAI)***
 
-![Sin titulo](Imagenes/cliente.png)
+![Sin titulo](Imagenes/cliente.PNG)
 
 #### Entrevista con el Usuario
 Se llevó a cabo con 5 usuarios, 3 varones y 2 mujeres. Sus edades promedian entre los 25 y 28 años.
-![Sin titulo](Imagenes/usuarios.png)
+![Sin titulo](Imagenes/usuarios.PNG)
 
 * ***[Guia de entrevista](https://drive.google.com/open?id=1_uADh5MlrDfdHOZfiRTeJINUCmmPm1zH_YdgsNLAaVs)***
 
@@ -144,13 +144,13 @@ Gracias al diagrama de afinidad, logramos enfocarnos en 5 categorías más nombr
 #### User Persona
 Con toda la información proporcionada en la investigación, decidimos modificar el user persona ya que no reflejaba al usuario objetivo.
 
-![Sin titulo](Imagenes/Userpersonahombre.png)
+![Sin titulo](Imagenes/Userpersonahombre.PNG)
 
-![Sin titulo](Imagenes/Userpersonamujer.png)
+![Sin titulo](Imagenes/Userpersonamujer.PNG)
 
 #### Customer Journey Map
 Se realizó un mapa de viaje, para identificar los puntos críticos de los usuarios en las diferentes etapas de cuando quieren ingresar, ver su saldo disponible, pagar un servicio y revisar sus gastos realizados.
-![Sin titulo](Imagenes/Customer.png)
+![Sin titulo](Imagenes/Customer.PNG)
 
 #### Problem statements y how might we
 
@@ -182,13 +182,13 @@ Rediseño de MVP
 * Pagos de servicios e instituciones (Agua, luz, teléfono, celular, Netflix, universidad, etc).
 * Publicidad informativa sobre el respaldo financiero que tiene y seguridad que brinda a sus usuarios, a través de medios de comunicación.
 
-![Sin titulo](Imagenes/Featurelist.png)
+![Sin titulo](Imagenes/Featurelist.PNG)
 
 ### 3.Ideación del producto
 #### Sketch
 Iniciamos realizando un prototipo de baja fidelidad en donde plasmamos diversas ideas para poder mejorar la experiencia del usuarios, de acuerdo a las conclusiones de testing del prototipo interactivo inicial y de las entrevistas a usuarios.
 
-![Sin titulo](Imagenes/Sketch.png)
+![Sin titulo](Imagenes/Sketch.PNG)
 
 Resultados: 
 * Realizan todas las rutas, sin complicaciones.
