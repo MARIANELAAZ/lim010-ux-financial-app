@@ -47,6 +47,7 @@ El Banco de Crédito del Perú (BCP), es uno de los bancos más importante del p
 ![Sin titulo](Imagenes/analisis2.PNG)
 ### Testing del MVP
 ![Sin titulo](Imagenes/maze.PNG)
+![Sin titulo](Imagenes/test1.PNG)
 ![Sin titulo](Imagenes/guerrilla.PNG)
 
 ## Implementación
@@ -92,7 +93,7 @@ Se obtuvo como conclusiones más resaltantes:
 
 ![Sin titulo](Imagenes/cliente.PNG)
 
-#### Entrevista con el Usuario
+#### Entrevista con el usuario
 Se llevó a cabo con 5 usuarios, 3 varones y 2 mujeres. Sus edades promedian entre los 25 y 28 años.
 ![Sin titulo](Imagenes/usuarios.PNG)
 
@@ -201,9 +202,17 @@ Resultados:
 Nuestro prototipo de alta fidelidad muestra las interacciones que serán parte del producto final y corresponde a las funcionalidades que solucionan los 5 problem statements que hemos priorizado. 
 * ***[Prototipo de alta fidelidad en Figma](https://www.figma.com/file/oVBcWvcSPrEFzswD9gMrVX/APP-BANQUI-VISTAS-MODIFICADAS?node-id=0%3A1)***
 * ***[Prototipo interactivo en Invision](https://projects.invisionapp.com/share/ZTU125OX2VD#/screens)***
+#### Testing
+Hicimos testing con 5 usuarios entre 25 y 30 años. Y sacamos dos conclusiones principales:
+* Mejorar la forma en como se muestra el gráfico d emovimientos.
+* Mejorar el tamaño de los elementos y estilos de las letras, para una mejor funcionalidad.
 
-## Conclusiones
-* 
+![Sin titulo](Imagenes/testalta.jpeg)
+
 ## Enlaces
+* Mira el video de nuestra presentación del desarrollo del proyecto
+Link de Loom ---> ***[Aquí](https://www.loom.com/share/caf90a87f2d74e54b22fc458ccb3de37)***
+* Conoce a detalle el proceso de trabajo de este rediseño
+Acceso a la documentación ---> ***[Ir al drive](https://drive.google.com/drive/folders/1PNLcThY4PgDvOf8Iyy9JcdrWXayjuSh2)***
 
 
