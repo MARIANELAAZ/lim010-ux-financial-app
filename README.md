@@ -201,7 +201,7 @@ Nuestro prototipo de alta fidelidad muestra las interacciones que serán parte d
 * ***[Prototipo interactivo en Invision](https://projects.invisionapp.com/share/ZTU125OX2VD#/screens)***
 #### Testing
 Hicimos testing con 5 usuarios entre 25 y 30 años. Y sacamos dos conclusiones principales:
-* Mejorar la forma en como se muestra el gráfico d emovimientos.
+* Mejorar la forma en como se muestra el gráfico de movimientos.
 * Mejorar el tamaño de los elementos y estilos de las letras, para una mejor funcionalidad.
 
 ![Sin titulo](Imagenes/testalta.jpeg)
