@@ -209,7 +209,7 @@ Hicimos testing con 5 usuarios entre 25 y 30 años. Y sacamos dos conclusiones p
 
 ## Enlaces
 * Mira el video de nuestra presentación del desarrollo del proyecto
-Link de Loom ---> ***[Aquí](https://www.loom.com/share/caf90a87f2d74e54b22fc458ccb3de37)***
+Link de Loom ---> ***[Aquí](https://www.loom.com/share/44323583ab054ae98ca307c13a19d153)***
 * Conoce a detalle el proceso de trabajo de este rediseño
 Acceso a la documentación ---> ***[Ir al drive](https://drive.google.com/drive/folders/1PNLcThY4PgDvOf8Iyy9JcdrWXayjuSh2)***
 
