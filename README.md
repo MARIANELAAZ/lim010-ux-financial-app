@@ -2,7 +2,7 @@
 
 _"Banqui_, es una app financiera perteneciente al Banco de Crédito del Perú (BCP), que permite a sus usuarios crear una cuenta bancaria 100% digital, sin plástico, ni papeleos para acceder a ella."
 
-![Sin titulo](Imagenes/Portada.png)
+![Sin titulo](https://i.imgur.com/Jq5c0P6.jpg)
 
 ## Índice
 ___
